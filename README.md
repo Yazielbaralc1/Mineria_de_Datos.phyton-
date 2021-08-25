@@ -7,5 +7,5 @@
  
 -[Mapa Mental](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/MapaMental_2_DM_1851004.pdf)
 
--[Ejercicios Basicos](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Ejercicios%20Basicos%20Python.ipynb)
+-[Ejercicios Basicos](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Ejercicios%20B%C3%A1sicos%20de%20Python.ipynb)
 
