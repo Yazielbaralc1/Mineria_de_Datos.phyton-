@@ -9,5 +9,5 @@
 
 -[Ejercicios Basicos](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Ejercicios%20B%C3%A1sicos%20de%20Python.ipynb)
 
--[Ejercicio_Limpieza_De_Base_De_Datos](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Ex_LimpiezaDeBaseDeDatos_Equipo7.ipynb)
+-[Ejercicio Limpieza De Base De Datos](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Ex_LimpiezaDeBaseDeDatos_Equipo7.ipynb)
 
