@@ -11,3 +11,7 @@
 
 -[Ejercicio Limpieza De Base De Datos](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Ex_LimpiezaDeBaseDeDatos_Equipo7.ipynb)
 
+-[Presentacion de Visualización](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Presetaci%C3%B3n%20de%20Visualizacion.pdf)
+
+-[Preguntas de Visualización](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Preguntas%20Visualizaci%C3%B3n.pdf)
+
