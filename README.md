@@ -19,3 +19,9 @@
 
 -[Preguntas de Visualización](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Preguntas%20Visualizaci%C3%B3n.pdf)
 
+-[Practica 2](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Practica_Equipo7.ipynb)
+
+-[Segundo Avance del PIA](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Avance%20_II_PIA_correccion.ipynb)
+
+-[Ejercicio Técnica de Minería](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/PIA_AVANCE_BANKRUPT.ipynb)
+
