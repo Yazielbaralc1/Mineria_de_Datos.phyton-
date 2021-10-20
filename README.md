@@ -25,3 +25,6 @@
 
 -[Ejercicio Técnica de Minería](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/PIA_AVANCE_BANKRUPT.ipynb)
 
+# Fase 3
+
+-[Entrega de Notebook](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/PIA_III_Equipo7.ipynb)
